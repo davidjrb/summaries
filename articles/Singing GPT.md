@@ -1,3 +1,13 @@
+For context:
+
+Author managed to get GPT voice to call him "Dave" and sing "Daisy Bell" to him as HAL9000 from the shut-down scene in [2001: A Space Odyssey](https://youtu.be/E7WQ1tdxSqI)
+
+---
+
+**TLDR:**  
+*ChatGPT’s advanced voice mode—rolled out in late 2024—has shown singing abilities when prompted creatively. While not an officially supported feature, users have managed to coax out melodic, sing-song tones through descriptive cues, role-playing scenarios, or even by providing a sung example. This hidden capability hints at potential future updates that may embrace musical interactions.*
+
+---
 
 
 # Prompting ChatGPT’s Voice to “Sing” – Is It Possible?
